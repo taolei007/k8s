@@ -1,0 +1,1 @@
+FROM sigwindowstools/kube-proxy:VERSION-nanoserver 
